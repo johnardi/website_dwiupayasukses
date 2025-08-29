@@ -1,0 +1,272 @@
+{
+  "home": "Home",
+  "products": "Products",
+  "about": "About Us",
+  "contact": "Contact",
+  "HomePage": {
+    "title": "Halo dunia!",
+    "about": "Pergi ke halaman tentang"
+  },
+  "Hero": {
+    "title": "PT Dwi Upaya Sukses",
+    "description": "Kami ingin berada di setiap perjalanan Anda mencari kepuasan melihat keindahan alam yang tidak dapat dirusak. Kami dapat membantu Anda dalam petualangan di seluruh dunia hanya dalam satu aplikasi"
+  },
+  "About": {
+    "tag": "Tentang",
+    "tagName": "Dwi Upaya Sukses",
+    "title": "Empowering Nature, Delivering Quality",
+    "companyName": "PT Dwi Upaya Sukses",
+    "text1": "adalah perusahaan yang bergerak di bidang agrikultur dan perdagangan hasil pertanian, khususnya pada komoditas rempah-rempah dan tanaman tropis seperti lada (merica), jahe, dan kopi. Didirikan pada tahun 2021 di Indonesia, perusahaan ini berawal sebagai pelaku perdagangan lokal dan pengepul hasil pertanian dari petani-petani daerah untuk pasar domestik.",
+    "text2": "Seiring dengan meningkatnya permintaan dan kualitas hasil produksi, sejak tahun 2025, PT Dwi Upaya Sukses memulai ekspansi ke pasar internasional untuk memperkenalkan produk-produk unggulan nusantara ke mancanegara. Dengan komitmen terhadap mutu, keberlanjutan, dan kemitraan yang adil dengan petani lokal, kami hadir sebagai solusi pemasok rempah yang profesional dan terpercaya.",
+    "viewMore": "Detail"
+  },
+  "Features": {
+    "tag": "Featured Products",
+    "description": "Kami berdedikasi untuk menyediakan produk dan layanan berkualitas terbaik bagi pelanggan kami."
+  },
+  "FeaturesCarouselItems": {
+    "ginger-elephant": "Jahe Gajah",
+    "ginger-emprit": "Jahe Emprit",
+    "paper-white": "Lada Putih",
+    "paper-black": "Lada Hitam",
+    "robusta-coffee-bean": "Biji Kopi Robusta",
+    "arabika-coffee-bean": "Biji Kopi Arabika",
+    "alt": {
+      "ginger-elephant": "Jahe Gajah",
+      "ginger-emprit": "Jahe Emprit",
+      "paper-white": "Lada Putih",
+      "paper-black": "Lada Hitam",
+      "robusta-coffee-bean": "Biji Kopi Robusta",
+      "arabika-coffee-bean": "Biji Kopi Arabika"
+    }
+  },
+  "Superiority": {
+    "tag": "Fitur Unik",
+    "title": "Mengapa",
+    "title-": "Memilih",
+    "title--": "Kami?",
+    "desc": "Kami menyediakan rempah-rempah Indonesia asli dan berkualitas tinggi, yang didatangkan langsung dari daerah penghasil terbaik dan petani berpengalaman. Sebagai pemasok, kami berkomitmen untuk memastikan pasokan global yang stabil dan berkelanjutan.",
+    "title1": "Kualitas Tinggi",
+    "text1": "Rempah-rempah asli Indonesia berkualitas tinggi.",
+    "title2": "Ekspor Berkualitas",
+    "text2": "Tahapan pengujian ketat standar internasional.",
+    "title3": "Pengembangan Kualitas",
+    "text3": "Penelitian dan inovasi meningkatkan kualitas rempah-rempah memenuhi permintaan pasar global.",
+    "title4": "Layanan Pelanggan yang Mudah",
+    "text4": "Layanan responsif dan profesional, membantu segala kebutuhan memastikan kepuasan pelanggan."
+  },
+  "WhoWeAre": {
+    "title": "Tentang Kami",
+    "title1": "Pemasok",
+    "title2": "Berkelanjutan",
+    "title3": "Rempah-rempah Berkualitas.",
+    "text1": "PT Dwi Upaya Sukses adalah perusahaan yang bergerak di bidang agrikultur dan perdagangan hasil pertanian, khususnya pada komoditas rempah-rempah dan tanaman tropis seperti lada (merica), jahe, dan kopi. Didirikan pada tahun 2021 di Indonesia, perusahaan ini berawal sebagai pelaku perdagangan lokal dan pengepul hasil pertanian dari petani-petani daerah untuk pasar domestik.",
+    "text2": "Seiring dengan meningkatnya permintaan dan kualitas hasil produksi, sejak tahun 2025, PT Dwi Upaya Sukses memulai ekspansi ke pasar internasional untuk memperkenalkan produk-produk unggulan nusantara ke mancanegara. Dengan komitmen terhadap mutu, keberlanjutan, dan kemitraan yang adil dengan petani lokal, kami hadir sebagai solusi pemasok rempah yang profesional dan terpercaya."
+  },
+  "VisionMission": {
+    "title": "Visi & Misi Kami",
+    "text": "Kami pemasok kayu keras dan kayu lunak",
+    "text0": "untuk berbagai industri.",
+    "title1": "Visi Kami",
+    "text1": "Menjadi perusahaan agrikultur Indonesia terdepan dalam produksi dan distribusi rempah-rempah berkualitas ke pasar global.",
+    "title2": "Misi Kami",
+    "text21": "Memberdayakan petani lokal melalui kemitraan berkelanjutan.",
+    "text22": "Menyediakan produk rempah-rempah dan tanaman tropis yang alami dan bermutu tinggi.",
+    "text23": "Menjaga rantai pasok yang efisien, transparan, dan ramah lingkungan.",
+    "text24": "Membangun jaringan ekspor yang luas dan terpercaya ke berbagai negara."
+  },
+  "Products": {
+    "ginger-elephant": {
+      "title": "Jahe Gajah",
+      "Description": "Jahe putih (Zingiber Ffficinale Rosc) juga dikenal sebagai Jahe Gajah, adalah rempah premium dari Indonesia yang banyak digunakan sebagai bumbu masak, pelengkap, dan produk herbal alami. Dikenal karena aroma dan rasanya yang khas, jahe putih merupakan bahan utama dalam berbagai industri, mulai dari makanan dan minuman hingga obat tradisional. Kami menyediakan Jahe Putih Grade A di Indonesia untuk pesanan dalam jumlah besar, bersumber dari berbagai daerah penghasil jahe putih di Indonesia dan memproduksi ratusan ton setiap tahunnya.",
+      "BotanicalName": {
+        "label": "Nama Botani",
+        "value": "Zingiber officinale Rosc"
+      },
+      "Origin": {
+        "label": "Grade",
+        "value": "A"
+      },
+      "MoistureContent": {
+        "label": "Kadar Air",
+        "value": "Kering (Kadar air kurang dari 12%)"
+      },
+      "ForeignMatter": {
+        "label": "Berasal",
+        "value": "Jawa Tengah, Jawa Timur"
+      },
+      "Admixture": {
+        "label": "Campuran",
+        "value": "-"
+      },
+      "MinimumOrder": {
+        "label": "Pesanan Minimum",
+        "value": "10.000 Kg"
+      },
+      "Packaging": {
+        "label": "Kemasan",
+        "value": "Karung Waring (10,20,50 Kg)"
+      }
+    },
+    "ginger-emprit": {
+      "title": "Jahe Emprit",
+      "Description": "Jahe Jawa (Zingiber officinale var. Amarum) merupakan varian jahe dengan ukuran lebih kecil dan rasa yang lebih pedas dibandingkan jahe putih. Jahe ini sering digunakan sebagai bumbu dapur, bahan pelengkap dalam berbagai olahan, serta dalam industri jamu dan minuman tradisional. Kami menyediakan jahe Jawa grade A di Indonesia untuk pesanan dalam jumlah besar, bersumber dari berbagai daerah penghasil jahe Jawa di Indonesia dan memproduksi ratusan ton setiap tahunnya.",
+      "BotanicalName": {
+        "label": "Botanical Name",
+        "value": "Zingiber officinale var. Rubrum"
+      },
+      "Origin": {
+        "label": "Grade",
+        "value": "A"
+      },
+      "MoistureContent": {
+        "label": "Kadar Air",
+        "value": "Kering (Kadar air kurang dari 12%)"
+      },
+      "ForeignMatter": {
+        "label": "Berasal",
+        "value": "Jawa Tengah, Jawa Timur"
+      },
+      "Admixture": {
+        "label": "Admixture",
+        "value": "-"
+      },
+      "MinimumOrder": {
+        "label": "Pesanan Minimum",
+        "value": "10.000 Kg"
+      },
+      "Packaging": {
+        "label": "Kemasan",
+        "value": "Karung Waring (10,20,50 Kg)"
+      }
+    },
+    "paper-white": {
+      "title": "Lada Putih",
+      "Description": "Lada putih (Piper nigrum) adalah salah satu rempah paling populer yang digunakan dalam industri makanan, minuman, dan bumbu masakan. Dengan rasa pedas dan aroma khas, lada hitam banyak dicari di pasar internasional. Kami adalah supplier lada hitam Grade A untuk kebutuhan dalam jumlah besar, langsung dari daerah penghasil terbaik di Indonesia.",
+      "BotanicalName": {
+        "label": "Nama Botani",
+        "value": "Piper nigrum"
+      },
+      "Origin": {
+        "label": "Grade",
+        "value": "A"
+      },
+      "MoistureContent": {
+        "label": "Kadar Air",
+        "value": "Kadar air kurang dari 12%"
+      },
+      "ForeignMatter": {
+        "label": "Berasal",
+        "value": "Sumatera dan Kalimantan"
+      },
+      "Admixture": {
+        "label": "Campuran",
+        "value": "-"
+      },
+      "MinimumOrder": {
+        "label": "Pesanan Minimum",
+        "value": "10.000 Kg"
+      },
+      "Packaging": {
+        "label": "Kemasan",
+        "value": "Karung Waring (10,20,50 Kg)"
+      }
+    },
+    "paper-black": {
+      "title": "Lada Hitam",
+      "Description": "Lada hitam (Piper nigrum) adalah salah satu rempah paling populer yang digunakan dalam industri makanan, minuman, dan bumbu masakan. Dengan rasa pedas dan aroma khas, lada hitam banyak dicari di pasar internasional. Kami adalah supplier lada hitam Grade A untuk kebutuhan dalam jumlah besar, langsung dari daerah penghasil terbaik di Indonesia.",
+      "BotanicalName": {
+        "label": "Nama Botani",
+        "value": "Piper nigrum"
+      },
+      "Origin": {
+        "label": "Grade",
+        "value": "A"
+      },
+      "MoistureContent": {
+        "label": "Kadar Air",
+        "value": "Kadar air kurang dari 12%"
+      },
+      "ForeignMatter": {
+        "label": "Berasal",
+        "value": "Sumatera dan Kalimantan"
+      },
+      "Admixture": {
+        "label": "Campuran",
+        "value": "-"
+      },
+      "MinimumOrder": {
+        "label": "Pesanan Minimum",
+        "value": "10.000 Kg"
+      },
+      "Packaging": {
+        "label": "Kemasan",
+        "value": "Karung Waring (10,20,50 Kg)"
+      }
+    },
+    "coffee-beans-robusta": {
+      "title": "Biji Kopi Robusta",
+      "Description": "Kopi robusta (Coffea canephora) merupakan keturunan beberapa spesies kopi yang tumbuh baik di ketinggian 400–700 mdpl, temperatur 21-24 °C dengan bulan kering 3-4 bulan secara berturut-turut dan 3-4 kali hujan kiriman.",
+      "BotanicalName": {
+        "label": "Nama Botani",
+        "value": "Coffea Canephora"
+      },
+      "Origin": {
+        "label": "Grade",
+        "value": "A"
+      },
+      "MoistureContent": {
+        "label": "Kadar Air",
+        "value": "Kering (Kadar air kurang dari 12%)"
+      },
+      "ForeignMatter": {
+        "label": "Berasal",
+        "value": "Sumatera, Jawa, Sulawesi"
+      },
+      "Admixture": {
+        "label": "Campuran",
+        "value": "-"
+      },
+      "MinimumOrder": {
+        "label": "Pesanan Minimum",
+        "value": "100 Kg"
+      },
+      "Packaging": {
+        "label": "Kemasan",
+        "value": "Karung Plastik (1,2,5 Kg)"
+      }
+    },
+    "coffee-beans-arabika": {
+      "title": "Biji Kopi Arabika",
+      "Description": "Kopi arabika (Coffea arabica), juga dikenal sebagai kopi arab, kopi semak arab, atau kopi gunung, adalah spesies dari genus Coffea. Spesies ini diyakini sebagai spesies kopi pertama yang dibudidayakan, dan merupakan kultivar dominan, mewakili sekitar 60% dari produksi kopi global. Jenis kopi lain yang banyak dibudidayakan adalah kopi robusta (C. canephora) (kurang asam, lebih pahit, dan lebih berkafein tinggi dibanding kopi arabika).",
+      "BotanicalName": {
+        "label": "Nama Botani",
+        "value": "Coffea Arabica"
+      },
+      "Origin": {
+        "label": "Grade",
+        "value": "A"
+      },
+      "MoistureContent": {
+        "label": "Kadar Air",
+        "value": "Kering (Kadar air kurang dari 12%)"
+      },
+      "ForeignMatter": {
+        "label": "Berasal",
+        "value": "Sumatera, Jawa, Sulawesi"
+      },
+      "Admixture": {
+        "label": "Campuran",
+        "value": "-"
+      },
+      "MinimumOrder": {
+        "label": "Pesanan Minimum",
+        "value": "100 Kg"
+      },
+      "Packaging": {
+        "label": "Kemasan",
+        "value": "Karung Plastik (1,2,5 Kg)"
+      }
+    }
+  }
+}

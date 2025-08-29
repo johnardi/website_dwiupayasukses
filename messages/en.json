@@ -1,0 +1,272 @@
+{
+  "home": "Home",
+  "products": "Products",
+  "about": "About Us",
+  "contact": "Contact",
+  "HomePage": {
+    "title": "Hello world!",
+    "about": "Go to the about page"
+  },
+  "Hero": {
+    "title": "PT Dwi Upaya Sukses",
+    "description": "We want to be on each of your journeys seeking the satisfaction of seeing the incorruptible beauty of nature. We can help you on anadventure around the world in just one app"
+  },
+  "About": {
+    "tag": "About",
+    "tagName": "Dwi Upaya Sukses",
+    "title": "Empowering Nature, Delivering Quality",
+    "companyName": "PT Dwi Upaya Sukses",
+    "text1": "is a company engaged in agriculture and trade of agricultural products, especially in the commodities of spices and tropical plants such as pepper, ginger, and coffee. Established in 2021 in Indonesia, the company started as a local trading player and collector of agricultural products from local farmers for the domestic market.",
+    "text2": "Along with the increasing demand and quality of production, since 2025, PT Dwi Upaya Sukses has started to expand into the international market to introduce superior products from the archipelago to foreign countries. With a commitment to quality, sustainability, and fair partnerships with local farmers, we are here as a professional and trusted spice supplier.",
+    "viewMore": "View More"
+  },
+  "Features": {
+    "tag": "Featured Products",
+    "description": "We are dedicated to providing the most excellent quality products and services to our customers."
+  },
+  "FeaturesCarouselItems": {
+    "ginger-elephant": "Elephant Ginger",
+    "ginger-emprit": "Emprit Ginger",
+    "paper-white": "White Paper",
+    "paper-black": "Black Pepper",
+    "robusta-coffee-bean": "Coffee Bean Robusta",
+    "arabika-coffee-bean": "Coffee Bean Arabika",
+    "alt": {
+      "ginger-elephant": "Elephant Ginger",
+      "ginger-emprit": "Emprit Ginger",
+      "paper-white": "White Paper",
+      "paper-black": "Black Pepper",
+      "robusta-coffee-bean": "Coffee Bean Robusta",
+      "arabika-coffee-bean": "Coffee Bean Arabika"
+    }
+  },
+  "Superiority": {
+    "tag": "Unique Features",
+    "title": "Why",
+    "title-": "Choose",
+    "title--": "Us?",
+    "desc": "Kami mengimpor kayu bulat, kayu gelondongan, dan produk hutan lainnya. Kami memiliki pengalaman puluhan tahun di industri perkayuan.",
+    "title1": "High Quality",
+    "text1": "Authentic Indonesian spices and high quality at affordable prices.",
+    "title2": "Quality Exports",
+    "text2": "Each product goes through a rigorous testing phase in accordance with international export standards. This process is directly supervised by standardization bodies to ensure safety, hygiene and top quality.",
+    "title3": "Quality Development",
+    "text3": "Our team of experts continuously conducts research and innovation to improve the quality of spices. Precise and high-standard processing ensures our products meet the demands of the global market.",
+    "title4": "Easy customer service",
+    "text4": "We are committed to providing responsive and professional customer service. Our team is ready to assist any needs with quick solutions and clear communication to ensure customer satisfaction."
+  },
+  "WhoWeAre": {
+    "title": "WHO WE ARE",
+    "title1": "Supplier of",
+    "title2": "Sustainable",
+    "title3": "Quality Spices.",
+    "text1": "PT Dwi Upaya Sukses is a company engaged in agriculture and agricultural product trading, specifically spices and tropical crops such as pepper, ginger, and coffee. Founded in 2021 in Indonesia, the company began as a local trader and agricultural product collector from regional farmers for the domestic market.",
+    "text2": "In line with increasing demand and production quality, since 2025, PT Dwi Upaya Sukses has begun expanding into international markets to introduce superior Indonesian products to the world. With a commitment to quality, sustainability, and fair partnerships with local farmers, we are present as a professional and trusted spice supplier solution."
+  },
+  "VisionMission": {
+    "title": "Our Vision & Mission",
+    "text": "We are suppliers of hardwood and softwood",
+    "text0": "for various industries.",
+    "title1": "Our Vision",
+    "text1": "To be the leading Indonesian agricultural company in the production and distribution of high-quality spices to the global market.",
+    "title2": "Our Mission",
+    "text21": "Empowering local farmers through sustainable partnerships.",
+    "text22": "Providing natural and high-quality spice and tropical plant products.",
+    "text23": "Maintaining an efficient, transparent, and environmentally friendly supply chain.",
+    "text24": "Building a wide and reliable export network to various countries."
+  },
+  "Products": {
+    "ginger-elephant": {
+      "title": "Jahe Gajah",
+      "Description": "Javanese ginger (Zingiber officinale var. Amarum) is a smaller variety of ginger with a spicier flavor than white ginger. It is often used as a kitchen spice, a complementary ingredient in various preparations, and in the herbal medicine and traditional beverage industries. We supply grade A Javanese ginger in Indonesia for bulk orders, sourced from various Javanese ginger-producing regions across the country, producing hundreds of tons annually.",
+      "BotanicalName": {
+        "label": "Botanical Name",
+        "value": "Zingiber officinale var. Rubrum"
+      },
+      "Origin": {
+        "label": "Origin",
+        "value": "A"
+      },
+      "MoistureContent": {
+        "label": "Moisture Content",
+        "value": "Dried (Moisture less than 12%)"
+      },
+      "ForeignMatter": {
+        "label": "Foreign Matter",
+        "value": "Jawa Tengah, Jawa Timur"
+      },
+      "Admixture": {
+        "label": "Admixture",
+        "value": "-"
+      },
+      "MinimumOrder": {
+        "label": "Pesanan Minimum",
+        "value": "10.000 Kg"
+      },
+      "Packaging": {
+        "label": "Packaging",
+        "value": "Mesh Bag (10,20,50 Kg)"
+      }
+    },
+    "ginger-emprit": {
+      "title": "Jahe Emprit",
+      "Description": "Emprit ginger (Zingiber officinale var. Amarum) is a smaller ginger variety with a spicier flavor than white ginger. It is often used as a kitchen spice, a complementary ingredient in various preparations, and in the herbal medicine and traditional beverage industries. We supply grade A Emprit ginger in Indonesia for bulk orders, sourced from various Emprit ginger-producing regions across the country, producing hundreds of tons annually.",
+      "BotanicalName": {
+        "label": "Botanical Name",
+        "value": "Zingiber officinale var. Rubrum"
+      },
+      "Origin": {
+        "label": "Origin",
+        "value": "A"
+      },
+      "MoistureContent": {
+        "label": "Moisture Content",
+        "value": "Dried (Moisture less than 12%)"
+      },
+      "ForeignMatter": {
+        "label": "Foreign Matter",
+        "value": "Jawa Tengah, Jawa Timur"
+      },
+      "Admixture": {
+        "label": "Admixture",
+        "value": "-"
+      },
+      "MinimumOrder": {
+        "label": "Pesanan Minimum",
+        "value": "10.000 Kg"
+      },
+      "Packaging": {
+        "label": "Packaging",
+        "value": "Mesh Bag (10,20,50 Kg)"
+      }
+    },
+    "paper-white": {
+      "title": "White Paper",
+      "Description": "White pepper (Piper nigrum) is one of the most popular spices used in the food, beverage, and culinary industries. With its pungent flavor and distinctive aroma, black pepper is highly sought after internationally. We supply Grade A black pepper for bulk needs, directly from the best producing regions in Indonesia.",
+      "BotanicalName": {
+        "label": "Botanical Name",
+        "value": "Piper nigrum"
+      },
+      "Origin": {
+        "label": "Origin",
+        "value": "A"
+      },
+      "MoistureContent": {
+        "label": "Moisture Content",
+        "value": "Dried (Moisture less than 12%)"
+      },
+      "ForeignMatter": {
+        "label": "Foreign Matter",
+        "value": "Sumatera and Kalimantan"
+      },
+      "Admixture": {
+        "label": "Admixture",
+        "value": "-"
+      },
+      "MinimumOrder": {
+        "label": "Pesanan Minimum",
+        "value": "10.000 Kg"
+      },
+      "Packaging": {
+        "label": "Packaging",
+        "value": "Mesh Bag (10,20,50 Kg)"
+      }
+    },
+    "paper-black": {
+      "title": "Black Paper",
+      "Description": "Black pepper (Piper nigrum) is one of the most popular spices widely used in the food, beverage, and seasoning industries. With its strong aroma and spicy flavor, black pepper is in high demand globally. We are a Grade A black pepper supplier in Indonesia for bulk orders, sourced from Indonesia’s best pepper-producing regions.",
+      "BotanicalName": {
+        "label": "Botanical Name",
+        "value": "Piper nigrum"
+      },
+      "Origin": {
+        "label": "Origin",
+        "value": "A"
+      },
+      "MoistureContent": {
+        "label": "Moisture Content",
+        "value": "Dried (Moisture less than 12%)"
+      },
+      "ForeignMatter": {
+        "label": "Foreign Matter",
+        "value": "Sumatera and Kalimantan"
+      },
+      "Admixture": {
+        "label": "Admixture",
+        "value": "-"
+      },
+      "MinimumOrder": {
+        "label": "Pesanan Minimum",
+        "value": "10.000 Kg"
+      },
+      "Packaging": {
+        "label": "Packaging",
+        "value": "Mesh Bag (10,20,50 Kg)"
+      }
+    },
+    "coffee-beans-robusta": {
+      "title": "Coffee Bean Robusta",
+      "Description": "Robusta coffee (Coffea canephora) is a descendant of several coffee species that grow well at an altitude of 400–700 meters above sea level, a temperature of 21–24 °C with 3–4 consecutive dry months and 3–4 times of rain.",
+      "BotanicalName": {
+        "label": "Botanical Name",
+        "value": "Coffea Canephora"
+      },
+      "Origin": {
+        "label": "Origin",
+        "value": "A"
+      },
+      "MoistureContent": {
+        "label": "Moisture Content",
+        "value": "Fresh, Dried (Moisture less than 12%)"
+      },
+      "ForeignMatter": {
+        "label": "Foreign Matter",
+        "value": "Sumatera, Jawa, Sulawesi"
+      },
+      "Admixture": {
+        "label": "Admixture",
+        "value": "-"
+      },
+      "MinimumOrder": {
+        "label": "Minimum Order",
+        "value": "100 Kg"
+      },
+      "Packaging": {
+        "label": "Packaging",
+        "value": "Plastic Sacks (1,2,5 Kg)"
+      }
+    },
+    "coffee-beans-arabika": {
+      "title": "Coffee Bean Arabika",
+      "Description": "Arabica coffee (Coffea arabica), also known as Arabian coffee, Arabian bush coffee, or mountain coffee, is a species of the genus Coffea. It is believed to be the first coffee species to be cultivated and is the dominant cultivar, accounting for approximately 60% of global coffee production. Another widely cultivated coffee variety is robusta coffee (C. canephora), which is less acidic, more bitter, and more caffeinated than Arabica.",
+      "BotanicalName": {
+        "label": "Botanical Name",
+        "value": "Coffea Arabica"
+      },
+      "Origin": {
+        "label": "Origin",
+        "value": "A"
+      },
+      "MoistureContent": {
+        "label": "Moisture Content",
+        "value": "Fresh, Dried (Moisture less than 12%)"
+      },
+      "ForeignMatter": {
+        "label": "Foreign Matter",
+        "value": "Sumatera, Jawa, Sulawesi"
+      },
+      "Admixture": {
+        "label": "Admixture",
+        "value": "-"
+      },
+      "MinimumOrder": {
+        "label": "Minimum Order",
+        "value": "100 Kg"
+      },
+      "Packaging": {
+        "label": "Packaging",
+        "value": "Plastic Sacks (1,2,5 Kg)"
+      }
+    }
+  }
+}
