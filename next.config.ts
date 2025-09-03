@@ -1,6 +1,6 @@
 import { NextConfig } from "next";
 import createNextIntlPlugin from "next-intl/plugin";
-import { routing } from "./i18n/routing"; // optional if you want to centralize config
+import { routing } from "./i18n/routing";
 
 const nextConfig: NextConfig = {
   output: "standalone",
@@ -12,6 +12,6 @@ const nextConfig: NextConfig = {
   }
 };
 
-const withNextIntl = createNextIntlPlugin(routing); // uses your defineRouting setup
+const withNextIntl = createNextIntlPlugin(routing);
 
 export default withNextIntl(nextConfig);
