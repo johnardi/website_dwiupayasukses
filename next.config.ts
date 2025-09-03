@@ -1,21 +1,17 @@
 import { NextConfig } from "next";
 import createNextIntlPlugin from "next-intl/plugin";
+import { routing } from "./i18n/routing"; // optional if you want to centralize config
 
-/** @type {import('next').NextConfig} */
 const nextConfig: NextConfig = {
   output: "standalone",
   experimental: {
-    serverActions: {} // ✅ must be an object, not a boolean
+    serverActions: {}
   },
   images: {
     unoptimized: true
-  },
-  i18n: {
-    locales: ["id", "en"],
-    defaultLocale: "id"
   }
 };
 
-const withNextIntl = createNextIntlPlugin();
+const withNextIntl = createNextIntlPlugin(routing); // uses your defineRouting setup
 
 export default withNextIntl(nextConfig);
