@@ -2,15 +2,18 @@ import { NextConfig } from "next";
 import createNextIntlPlugin from "next-intl/plugin";
 
 /** @type {import('next').NextConfig} */
-
 const nextConfig: NextConfig = {
-  output: 'standalone',
+  output: "standalone",
   experimental: {
-    serverActions: true
+    serverActions: {} // ✅ must be an object, not a boolean
   },
   images: {
-    unoptimized: true,
+    unoptimized: true
   },
+  i18n: {
+    locales: ["id", "en"],
+    defaultLocale: "id"
+  }
 };
 
 const withNextIntl = createNextIntlPlugin();
