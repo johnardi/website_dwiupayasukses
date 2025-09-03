@@ -1,6 +1,5 @@
 import { NextConfig } from "next";
 import createNextIntlPlugin from "next-intl/plugin";
-import { routing } from "./i18n/routing";
 
 const nextConfig: NextConfig = {
   output: "standalone",
@@ -12,6 +11,7 @@ const nextConfig: NextConfig = {
   }
 };
 
-const withNextIntl = createNextIntlPlugin(routing);
+// ✅ Don't pass `routing` here — it's for middleware only
+const withNextIntl = createNextIntlPlugin();
 
 export default withNextIntl(nextConfig);
