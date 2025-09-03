@@ -4,7 +4,10 @@ import createNextIntlPlugin from "next-intl/plugin";
 /** @type {import('next').NextConfig} */
 
 const nextConfig: NextConfig = {
-  distDir: "build",
+  output: 'standalone',
+  experimental: {
+    serverActions: true
+  },
   images: {
     unoptimized: true,
   },
