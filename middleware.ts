@@ -1,8 +1,7 @@
 import createMiddleware from "next-intl/middleware";
-import { routing } from "./i18n/routing";
+import { locales, defaultLocale } from "./i18n/config";
 
-export default createMiddleware(routing);
-
+export default createMiddleware({ locales, defaultLocale });
 export const config = {
   // Match all pathnames except for
   // - … if they start with `/api`, `/trpc`, `/_next` or `/_vercel`
