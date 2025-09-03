@@ -11,7 +11,7 @@ const nextConfig: NextConfig = {
   }
 };
 
-// ✅ Don't pass `routing` here — it's for middleware only
+// ✅ No arguments needed — plugin auto-detects messages
 const withNextIntl = createNextIntlPlugin();
 
 export default withNextIntl(nextConfig);
